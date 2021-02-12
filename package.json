@@ -1,7 +1,7 @@
 {
   "name": "@koorya/babel-plugin-add-jsx-attribute-width-id",
   "description": "Add JSX attribute with element id",
-  "version": "5.4.0",
+  "version": "5.4.1",
   "main": "lib/index.js",
   "repository": "https://github.com/koorya/babel-plugin-add-jsx-attribute-width-id",
   "author": "Greg Bergé <berge.greg@gmail.com> / kirill ivanov",
